@@ -1,6 +1,6 @@
 package lms;
 
-class Publisher{
+public class Publisher{
 	
 	private String publisherName;
 	private int publisherId;

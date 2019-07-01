@@ -1,6 +1,6 @@
 package lms;
 
-class Author{
+public class Author{
 	
 	private String authorName;
 	private int authorId;

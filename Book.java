@@ -1,6 +1,6 @@
 package lms;
 
-class Book{
+public class Book{
 	
 	private String bookName;
 	private int bookId;
